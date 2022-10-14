@@ -1,0 +1,16 @@
+C:\Users\Jairo\OneDrive\Documentos\Universidad\Primer Año\2do. Semestre\Intro. a la Programación (LAB)\VISUAL STUDIO\Semana 10\L10_JAHR_1145922\L10_JAHR_1145922\bin\Debug\L10_JAHR_1145922.exe.config
+C:\Users\Jairo\OneDrive\Documentos\Universidad\Primer Año\2do. Semestre\Intro. a la Programación (LAB)\VISUAL STUDIO\Semana 10\L10_JAHR_1145922\L10_JAHR_1145922\bin\Debug\L10_JAHR_1145922.exe
+C:\Users\Jairo\OneDrive\Documentos\Universidad\Primer Año\2do. Semestre\Intro. a la Programación (LAB)\VISUAL STUDIO\Semana 10\L10_JAHR_1145922\L10_JAHR_1145922\bin\Debug\L10_JAHR_1145922.pdb
+C:\Users\Jairo\OneDrive\Documentos\Universidad\Primer Año\2do. Semestre\Intro. a la Programación (LAB)\VISUAL STUDIO\Semana 10\L10_JAHR_1145922\L10_JAHR_1145922\obj\Debug\L10_JAHR_1145922.csproj.AssemblyReference.cache
+C:\Users\Jairo\OneDrive\Documentos\Universidad\Primer Año\2do. Semestre\Intro. a la Programación (LAB)\VISUAL STUDIO\Semana 10\L10_JAHR_1145922\L10_JAHR_1145922\obj\Debug\L10_JAHR_1145922.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jairo\OneDrive\Documentos\Universidad\Primer Año\2do. Semestre\Intro. a la Programación (LAB)\VISUAL STUDIO\Semana 10\L10_JAHR_1145922\L10_JAHR_1145922\obj\Debug\L10_JAHR_1145922.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\OneDrive\Documentos\Universidad\Primer Año\2do. Semestre\Intro. a la Programación (LAB)\VISUAL STUDIO\Semana 10\L10_JAHR_1145922\L10_JAHR_1145922\obj\Debug\L10_JAHR_1145922.exe
+C:\Users\Jairo\OneDrive\Documentos\Universidad\Primer Año\2do. Semestre\Intro. a la Programación (LAB)\VISUAL STUDIO\Semana 10\L10_JAHR_1145922\L10_JAHR_1145922\obj\Debug\L10_JAHR_1145922.pdb
+C:\Users\Jairo\OneDrive\Documentos\Universidad\Primer Año\2do. Semestre\Intro. a la Programación (LAB)\PROGRA-LABS\DECIMA SEMANA\L10_JAHR_1145922\L10_JAHR_1145922\bin\Debug\L10_JAHR_1145922.exe.config
+C:\Users\Jairo\OneDrive\Documentos\Universidad\Primer Año\2do. Semestre\Intro. a la Programación (LAB)\PROGRA-LABS\DECIMA SEMANA\L10_JAHR_1145922\L10_JAHR_1145922\bin\Debug\L10_JAHR_1145922.exe
+C:\Users\Jairo\OneDrive\Documentos\Universidad\Primer Año\2do. Semestre\Intro. a la Programación (LAB)\PROGRA-LABS\DECIMA SEMANA\L10_JAHR_1145922\L10_JAHR_1145922\bin\Debug\L10_JAHR_1145922.pdb
+C:\Users\Jairo\OneDrive\Documentos\Universidad\Primer Año\2do. Semestre\Intro. a la Programación (LAB)\PROGRA-LABS\DECIMA SEMANA\L10_JAHR_1145922\L10_JAHR_1145922\obj\Debug\L10_JAHR_1145922.csproj.AssemblyReference.cache
+C:\Users\Jairo\OneDrive\Documentos\Universidad\Primer Año\2do. Semestre\Intro. a la Programación (LAB)\PROGRA-LABS\DECIMA SEMANA\L10_JAHR_1145922\L10_JAHR_1145922\obj\Debug\L10_JAHR_1145922.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jairo\OneDrive\Documentos\Universidad\Primer Año\2do. Semestre\Intro. a la Programación (LAB)\PROGRA-LABS\DECIMA SEMANA\L10_JAHR_1145922\L10_JAHR_1145922\obj\Debug\L10_JAHR_1145922.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\OneDrive\Documentos\Universidad\Primer Año\2do. Semestre\Intro. a la Programación (LAB)\PROGRA-LABS\DECIMA SEMANA\L10_JAHR_1145922\L10_JAHR_1145922\obj\Debug\L10_JAHR_1145922.exe
+C:\Users\Jairo\OneDrive\Documentos\Universidad\Primer Año\2do. Semestre\Intro. a la Programación (LAB)\PROGRA-LABS\DECIMA SEMANA\L10_JAHR_1145922\L10_JAHR_1145922\obj\Debug\L10_JAHR_1145922.pdb
